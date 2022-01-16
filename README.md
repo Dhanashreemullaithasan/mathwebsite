@@ -236,7 +236,7 @@ h1{
 </html>
 
 ## OUTPUT:
-![output](./ima.png)
+![output](./img.png)
 
 ## Result:
 
