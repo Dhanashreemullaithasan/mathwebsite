@@ -36,6 +36,7 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 
+~~~
 
 <!DOCTYPE html>
 <html lang="en">
@@ -234,6 +235,9 @@ h1{
 
 </body>
 </html>
+
+
+~~~
 
 ## OUTPUT:
 ![output](./img.png)
